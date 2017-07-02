@@ -94,7 +94,3 @@ fBodyBodyGyroJerkMag-std()
 fBodyBodyGyroJerkMag-meanFreq()
 
 
-Subjects
-Activity
-
-
